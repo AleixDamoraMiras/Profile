@@ -1,0 +1,17 @@
+{
+  "index": {
+    "tittle": "Aleix Damora Miras",
+    "subtitle": "I am a Front-End Developer with experience in HTML5, CSS, JavaScript, React... I am seeking to embark on exciting and innovative projects where I can put my skills and knowledge into practice.",
+    "subtitle_2": "I take pride in working as part of a team, as I firmly believe in collaboration and the exchange of ideas to achieve outstanding results.",
+
+    "age": "Age",
+    "number_age": "22",
+    "age_old": "Year old",
+
+    "tittle_githup": "Github",
+    "subtitle_githup": "My Github profile, where I upload my projects and demos",
+
+    "tittle_proyects": "Projects and demos",
+    "subtitle_proyects": "Here you can find some of my projects or test landings"
+  }
+}

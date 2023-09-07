@@ -1,0 +1,17 @@
+{
+  "index": {
+    "tittle": "Aleix Damora Miras",
+    "subtitle": "私は HTML5、CSS、JavaScript、React の経験を持つフロントエンド開発者です。自分のスキルと知識を実践できる、エキサイティングで革新的なプロジェクトに着手したいと考えています",
+    "subtitle_2": "私は、コラボレーションとアイデアの交換を強く信じているため、チームとして働くことに誇りを持っています。。。",
+
+    "age": "年 齢",
+    "number_age": "22",
+    "age_old": "年",
+
+    "tittle_githup": "ギットハブ",
+    "subtitle_githup": "私のGitHubプロフィールです。ここには私のプロジェクトやデモをアップロードしています",
+
+    "tittle_proyects": "プロジェクトとデモ",
+    "subtitle_proyects": "ここでは私のいくつかのプロジェクトやテスト用ランディングページを見つけることができます"
+  }
+}
